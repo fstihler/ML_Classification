@@ -1,0 +1,2 @@
+# ML Classification
+This educational project applies classic machine learning algorithms, including linear regression, logistic regression, neural networks, and random forests, to classify wine color and assess quality. By leveraging a dataset of key wine attributes, the project explores the predictive performance of various models, offering insights into effective approaches for analyzing and predicting wine characteristics.
